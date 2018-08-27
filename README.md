@@ -95,8 +95,8 @@ https://obfuscator.io/
 Contact Info
 -----------
 
-Author: Hadi Khazaee Asl
-Email: Hadi_Khazaee_asl@yahoo.com
+- Author: Hadi Khazaee Asl
+- Email: Hadi_Khazaee_asl@yahoo.com
 
 Donate
 -------
